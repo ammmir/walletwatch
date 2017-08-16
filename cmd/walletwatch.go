@@ -46,10 +46,10 @@ func main() {
 		}
 
 		w.Header().Set("Content-Type", "application/json")
+		w.Header().Set("Cache-Control", "no-cache")
+		w.Header().Set("Access-Control-Allow-Origin", "*")
 		// TODO: SSE
 		//w.Header().Set("Content-Type", "text/event-stream")
-		//w.Header().Set("Cache-Control", "no-cache")
-		//w.Header().Set("Access-Control-Allow-Origin", "*")
 
 		// TODO: timeout
 		// TODO: minimum amount received
