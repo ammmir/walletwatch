@@ -1,0 +1,301 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "UpJXf13r1IqbJxdACRk0JflPL2o=",
+			"path": "github.com/btcsuite/btcd",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "fCnQ+oMVmm/uUt7B2bDtLA6/snU=",
+			"path": "github.com/btcsuite/btcd/addrmgr",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "MIZ7Mkwa0zQU839yMCOlKeqV25s=",
+			"path": "github.com/btcsuite/btcd/blockchain",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "NPm+SItm2OoKmf+UlD6KdmVzJp8=",
+			"path": "github.com/btcsuite/btcd/blockchain/indexers",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "+f6Oq1RH1TGYQo6k4Qw/ulir9QE=",
+			"path": "github.com/btcsuite/btcd/btcec",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "+hUDENdkrO0K7cOAgyuqOXR7ZuM=",
+			"path": "github.com/btcsuite/btcd/btcjson",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "MaMdEOFamcNkk10Z2IkkUcR7xmk=",
+			"path": "github.com/btcsuite/btcd/chaincfg",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "GmSJfFUhbXmiqjiEMbjKs4knqzA=",
+			"path": "github.com/btcsuite/btcd/chaincfg/chainhash",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "W9rcbU/30jXbLKQqoubK1mgbhVg=",
+			"path": "github.com/btcsuite/btcd/connmgr",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "l+YMFvNaEEQ+ljBqkUeFIaLiFbQ=",
+			"path": "github.com/btcsuite/btcd/database",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "aRFKgF14lxX7unn26GNxSQs+dt8=",
+			"path": "github.com/btcsuite/btcd/database/ffldb",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "jdhL9/G8bZG2a2N2XXqHELyYIjM=",
+			"path": "github.com/btcsuite/btcd/database/internal/treap",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "CeW8Iolf8EEBj5yrcUv4tw7PLCQ=",
+			"path": "github.com/btcsuite/btcd/limits",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "83g/EL1dmDdSWIFukrA3XWOEdT8=",
+			"path": "github.com/btcsuite/btcd/mempool",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "El4Rd8vxYgPfdkMUGjnHE8AoR+Y=",
+			"path": "github.com/btcsuite/btcd/mining",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "XM6GEZ+ZsvlwS7McA35xfqyQb78=",
+			"path": "github.com/btcsuite/btcd/mining/cpuminer",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "+8SXImsMRIT3qBOJsiSuQSUyyZw=",
+			"path": "github.com/btcsuite/btcd/peer",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "UQbkvwkee8Dc/1lXNx6Ayw9Ai0g=",
+			"path": "github.com/btcsuite/btcd/txscript",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "+PI2OHLJFAsq8d1Wj3uOr/8mFY8=",
+			"path": "github.com/btcsuite/btcd/wire",
+			"revision": "47885ab8702485be6b6f87a03d4f3be0bc5c982c",
+			"revisionTime": "2017-07-07T21:31:11Z"
+		},
+		{
+			"checksumSHA1": "J6VwqSZwsPkigujNZo4vyYIFPWU=",
+			"path": "github.com/btcsuite/btclog",
+			"revision": "84c8d2346e9fc8c7b947e243b9c24e6df9fd206a",
+			"revisionTime": "2017-06-28T15:40:31Z"
+		},
+		{
+			"checksumSHA1": "2rIcPpuv45qiyxVJkG6ISs87/6Q=",
+			"path": "github.com/btcsuite/btcutil",
+			"revision": "dcd4997b0664bcfd6ef48e4ae9da8396e08b1cd9",
+			"revisionTime": "2017-02-16T16:07:38Z"
+		},
+		{
+			"checksumSHA1": "P7zGTjLdfC0x295s647Lb4bvHYo=",
+			"path": "github.com/btcsuite/btcutil/base58",
+			"revision": "dcd4997b0664bcfd6ef48e4ae9da8396e08b1cd9",
+			"revisionTime": "2017-02-16T16:07:38Z"
+		},
+		{
+			"checksumSHA1": "xLZnswKfkcwDQt896FhFHEYI0sA=",
+			"path": "github.com/btcsuite/btcutil/bloom",
+			"revision": "501929d3d046174c3d39f0ea54ece471aa17238c",
+			"revisionTime": "2017-07-02T00:39:31Z"
+		},
+		{
+			"checksumSHA1": "j3yRnuia1i5Wb7C9Tc5g0d6gdpM=",
+			"path": "github.com/btcsuite/go-socks/socks",
+			"revision": "4720035b7bfd2a9bb130b1c184f8bbe41b6f0d0f",
+			"revisionTime": "2016-12-14T21:12:04Z"
+		},
+		{
+			"checksumSHA1": "GLQA0gz6E8inJ8W/3JIxOUW77hE=",
+			"path": "github.com/btcsuite/goleveldb/leveldb",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "X8mJjQc5Fi2wqubcNpfV1p2rc08=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/cache",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "uCsFD/NFUPYnpV8l36blVuTyBQY=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/comparer",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "QJr05C4YG55bsiVVC4/UgxVRQlA=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/errors",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "BxzSZdcwt8W09G9R6rvgloR2GDw=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/filter",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "nR8Vgk17OugZoJNfx0yTpuJBFSI=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/iterator",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "9K2/sf/TCra9EMIsMq5Fn/djtKM=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/journal",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "kSoPTkeHHgWdzXAJVXm3mRPZ7wU=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/memdb",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "Mw4mKlCohuseSgmJFj3VkpZkSp0=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/opt",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "xllx1BYQKzRWVYb+BuPZ2/znYDc=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/storage",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "OB61iRI7AnJFGWBaClsBlKu9ySY=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/table",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "n/phhG82e/uQFLnfRXHNBgzY2hk=",
+			"path": "github.com/btcsuite/goleveldb/leveldb/util",
+			"revision": "7834afc9e8cd15233b6c3d97e12674a31ca24602",
+			"revisionTime": "2016-03-30T04:15:36Z"
+		},
+		{
+			"checksumSHA1": "u6/78ZJzKP6WhW6iF3HZ67SW5xc=",
+			"path": "github.com/btcsuite/snappy-go",
+			"revision": "0bdef8d067237991ddaa1bb6072a740bc40601ba",
+			"revisionTime": "2015-12-29T07:37:54Z"
+		},
+		{
+			"checksumSHA1": "Uf5l11rLPQGlCJsRbgX9CI2wbuA=",
+			"path": "github.com/btcsuite/websocket",
+			"revision": "31079b6807923eb23992c421b114992b95131b55",
+			"revisionTime": "2015-01-19T17:41:27Z"
+		},
+		{
+			"checksumSHA1": "9k5eLnwi/Y/j454U0b56CiKh8cE=",
+			"path": "github.com/btcsuite/winsvc/eventlog",
+			"revision": "f8fb11f83f7e860e3769a08e6811d1b399a43722",
+			"revisionTime": "2015-01-17T05:23:43Z"
+		},
+		{
+			"checksumSHA1": "ZdTJkdVtNdkAzXAOM7cT+aabMQw=",
+			"path": "github.com/btcsuite/winsvc/mgr",
+			"revision": "f8fb11f83f7e860e3769a08e6811d1b399a43722",
+			"revisionTime": "2015-01-17T05:23:43Z"
+		},
+		{
+			"checksumSHA1": "OGdIbkcKgXbGIsfC5GilHmYQEkU=",
+			"path": "github.com/btcsuite/winsvc/registry",
+			"revision": "f8fb11f83f7e860e3769a08e6811d1b399a43722",
+			"revisionTime": "2015-01-17T05:23:43Z"
+		},
+		{
+			"checksumSHA1": "pVp/bfSvzX0q0VvGZ+PqunyQtzc=",
+			"path": "github.com/btcsuite/winsvc/svc",
+			"revision": "f8fb11f83f7e860e3769a08e6811d1b399a43722",
+			"revisionTime": "2015-01-17T05:23:43Z"
+		},
+		{
+			"checksumSHA1": "QmgeAaO0N7oWvuHSU0jJ4cuYLyc=",
+			"path": "github.com/btcsuite/winsvc/winapi",
+			"revision": "f8fb11f83f7e860e3769a08e6811d1b399a43722",
+			"revisionTime": "2015-01-17T05:23:43Z"
+		},
+		{
+			"checksumSHA1": "mrz/kicZiUaHxkyfvC/DyQcr8Do=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "adab96458c51a58dc1783b3335dcce5461522e75",
+			"revisionTime": "2017-07-11T18:34:51Z"
+		},
+		{
+			"checksumSHA1": "Eg449rulPIiIoW2+Aoum/Af/wiM=",
+			"path": "github.com/go-chi/chi",
+			"revision": "1ca66566bf578e28e60bc370874df92510ed5e6c",
+			"revisionTime": "2017-08-08T16:51:42Z"
+		},
+		{
+			"checksumSHA1": "SQiqMYFp63MKuzJZpce0Lp5Sc/c=",
+			"path": "github.com/jessevdk/go-flags",
+			"revision": "6cf8f02b4ae8ba723ddc64dcfd403e530c06d927",
+			"revisionTime": "2017-07-22T07:29:52Z"
+		},
+		{
+			"checksumSHA1": "Ua7bbrA6+Zy8NtAP7Uo+XHVATQI=",
+			"path": "github.com/jrick/logrotate/rotator",
+			"revision": "a93b200c26cbae3bb09dd0dc2c7c7fe1468a034a",
+			"revisionTime": "2017-06-28T18:35:19Z"
+		},
+		{
+			"checksumSHA1": "VOB4XEixLU6hciPjkRyYu5xuYDM=",
+			"path": "github.com/pebbe/zmq4",
+			"revision": "651d7b11cd31b16fb4c76741c234e258b6a8039b",
+			"revisionTime": "2017-06-03T08:44:38Z"
+		},
+		{
+			"checksumSHA1": "y/oIaxq2d3WPizRZfVjo8RCRYTU=",
+			"path": "golang.org/x/crypto/ripemd160",
+			"revision": "b176d7def5d71bdd214203491f89843ed217f420",
+			"revisionTime": "2017-07-23T04:49:35Z"
+		}
+	],
+	"rootPath": "github.com/ammmir/walletwatch"
+}
